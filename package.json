@@ -1,0 +1,20 @@
+{
+  "name": "roundoff-numbers",
+  "version": "1.0.0",
+  "description": "roundoff number with digits",
+  "main": "index.js",
+  "scripts": {
+    "test": "roundoff"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Venkat6526/rounoff-npm.git"
+  },
+  "keywords": [
+    "roundoff",
+    "with",
+    "digits"
+  ],
+  "author": "lvenkatesh6526",
+  "license": "ISC"
+}
